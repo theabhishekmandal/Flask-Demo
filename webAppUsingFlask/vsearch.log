@@ -1,0 +1,7 @@
+ImmutableMultiDict([('phrase', 'adios'), ('letters', 'nklenp')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|127.0.0.1|set()
+ImmutableMultiDict([('phrase', 'helo'), ('letters', 'abhishek')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|127.0.0.1|{'h', 'e'}
+ImmutableMultiDict([('phrase', 'hello'), ('letters', 'ffds')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|127.0.0.1|set()
+ImmutableMultiDict([('phrase', 'sfdds'), ('letters', 'dsf')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|127.0.0.1|{'d', 'f', 's'}
+ImmutableMultiDict([('phrase', 'sfdds'), ('letters', 'dsf')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0|127.0.0.1|{'f', 's', 'd'}
+ImmutableMultiDict([('phrase', 'abhishek'), ('letters', 'hello')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0|127.0.0.1|{'e', 'h'}
+ImmutableMultiDict([('phrase', 'hello from the other side'), ('letters', 'akflsa')])|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0|127.0.0.1|{'l', 's', 'f'}
